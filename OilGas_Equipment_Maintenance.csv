@@ -1,0 +1,21 @@
+Equipment_ID,Date,Maintenance_Type,Downtime_Hours,Technician,Cost_NGN
+EQ001,2024-01-01,Inspection,1,Tech A,40228
+EQ002,2024-01-08,Inspection,4,Tech B,6021
+EQ003,2024-01-15,Routine,2,Tech B,41400
+EQ004,2024-01-22,Emergency,8,Tech C,28483
+EQ005,2024-01-29,Routine,2,Tech A,42463
+EQ001,2024-02-05,Routine,6,Tech B,42526
+EQ002,2024-02-12,Routine,3,Tech C,28316
+EQ003,2024-02-19,Inspection,5,Tech B,24422
+EQ004,2024-02-26,Routine,6,Tech B,21536
+EQ005,2024-03-04,Emergency,2,Tech C,44588
+EQ001,2024-03-11,Routine,6,Tech C,44055
+EQ002,2024-03-18,Emergency,3,Tech A,35662
+EQ003,2024-03-25,Inspection,2,Tech B,8230
+EQ004,2024-04-01,Inspection,8,Tech A,34032
+EQ005,2024-04-08,Routine,9,Tech C,28444
+EQ001,2024-04-15,Inspection,9,Tech B,33659
+EQ002,2024-04-22,Emergency,9,Tech B,27609
+EQ003,2024-04-29,Emergency,2,Tech B,22138
+EQ004,2024-05-06,Routine,4,Tech B,29839
+EQ005,2024-05-13,Routine,1,Tech C,28383

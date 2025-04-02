@@ -1,0 +1,16 @@
+Incident_ID,Date,Location,Severity,Injuries,Report_Status
+INC001,2024-02-01,Platform A,Medium,4,Open
+INC002,2024-02-04,Platform B,Medium,1,Closed
+INC003,2024-02-07,Terminal X,Low,1,Open
+INC004,2024-02-10,Platform B,Medium,4,Closed
+INC005,2024-02-13,Terminal X,Medium,4,Open
+INC006,2024-02-16,Platform A,High,1,Closed
+INC007,2024-02-19,Platform A,Medium,4,Closed
+INC008,2024-02-22,Terminal X,Low,2,Open
+INC009,2024-02-25,Terminal X,Medium,1,Closed
+INC010,2024-02-28,Terminal X,Low,1,Open
+INC011,2024-03-02,Terminal X,High,3,Closed
+INC012,2024-03-05,Terminal X,High,0,Closed
+INC013,2024-03-08,Platform A,Low,1,Closed
+INC014,2024-03-11,Terminal X,Low,0,Open
+INC015,2024-03-14,Platform B,High,1,Open
